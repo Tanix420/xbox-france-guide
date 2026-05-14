@@ -32,7 +32,7 @@ function renderComparisonTable(products) {
                     <span class="type-badge">${product.type}</span>
                 </td>
                 <td class="product-image">
-                    <img src="${product.image_url}" alt="${product.name}" loading="lazy">
+                    <img src="${product.image_url}" alt="${product.name}" loading="lazy" onerror="this.src='https://cdn-icons-png.flaticon.com/128/6073/6073873.png'">
                 </td>
                 <td class="price">
                     <span class="price-value">${product.price_eur}€</span>
