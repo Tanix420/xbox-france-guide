@@ -1,207 +1,263 @@
 {
-  "products": [
-    {
-      "rank": 1,
-      "name": "Manette Xbox sans Fil Robot White",
-      "asin": "B0F2NCQYTX",
-      "amazon_url": "https://www.amazon.fr/Xbox-Manette-sans-Fil-Windows/dp/B0F2NCQYTX",
-      "image_url": "https://m.media-amazon.com/images/I/61Y5fJnXXL._AC_SL1000_.jpg",
-      "price_eur": "59,99",
-      "rating": "4.8",
-      "reviews": 12453,
-      "type": "Officielle Standard",
-      "category": "Gaming",
-      "features": [
-        "Connexion Bluetooth et USB-C",
-        "Bouton Share intégré",
-        "Compatibilité Xbox Series X|S, Xbox One, PC, Mobile",
-        "Design moderne blanc"
-      ],
-      "pros": ["Design élégant", "Polyvalente", "Bouton Share utile"],
-      "cons": ["Prix fluctuate"]
-    },
-    {
-      "rank": 2,
-      "name": "Manette Xbox Carbon Black",
-      "asin": "B0F2NC69KK",
-      "amazon_url": "https://www.amazon.fr/Xbox-Manette-sans-Fil-Windows/dp/B0F2NC69KK",
-      "image_url": "https://m.media-amazon.com/images/I/61Y5fJnXXL._AC_SL1000_.jpg",
-      "price_eur": "54,99",
-      "rating": "4.7",
-      "reviews": 28420,
-      "type": "Officielle Standard",
-      "category": "Gaming",
-      "features": [
-        "Connexion Bluetooth et USB-C",
-        "Bouton Share intégré",
-        "Design classique noir",
-        " Garantie Microsoft"
-      ],
-      "pros": ["Meilleur prix", "Fiabilité prouvée", "Clone exacte"],
-      "cons": ["Pas de couleur speciale"]
-    },
-    {
-      "rank": 3,
-      "name": "Xbox Elite Wireless Controller Series 2",
-      "asin": "B07SR4R8K1",
-      "amazon_url": "https://www.amazon.fr/Manette-Xbox-Elite-S%C3%A9rie-Sans/dp/B07SR4R8K1",
-      "image_url": "https://m.media-amazon.com/images/I/71B6lVfKLfL._AC_SL1500_.jpg",
-      "price_eur": "179,00",
-      "rating": "4.6",
-      "reviews": 8923,
-      "type": "Elite Premium",
-      "category": "Gaming Pro",
-      "features": [
-        "4 boutons remappables",
-        "Poignées antidérapantes",
-        "3 profils personnalisés",
-        "Housse de transport incluse",
-        "Gachettes adjustable"
-      ],
-      "pros": ["Qualite professionnelle", "Totalement personalisable", "Ideal pour competion"],
-      "cons": ["Tres cher", "Peso plus lourd"]
-    },
-    {
-      "rank": 4,
-      "name": "Xbox Elite Series 2 Core Blanc",
-      "asin": "B0B9GJLV2D",
-      "amazon_url": "https://www.amazon.fr/Xbox-Manette-sans-fil-Elite-Blanc/dp/B0B9GJLV2D",
-      "image_url": "https://m.media-amazon.com/images/I/71wB6lVfKLfL._AC_SL1500_.jpg",
-      "price_eur": "129,00",
-      "rating": "4.5",
-      "reviews": 4521,
-      "type": "Elite Core",
-      "category": "Gaming",
-      "features": [
-        "2 boutons remappables",
-        "Design blanc premium",
-        "Personnalisable",
-        "Plus legere que l'Elite 2"
-      ],
-      "pros": ["Bon compromis", "Esthétique recherché", "Prix plus attractif"],
-      "cons": ["Moins de boutons que l'Elite 2"]
-    },
-    {
-      "rank": 5,
-      "name": "Manette Xbox Series S Officielle",
-      "asin": "Non specifique",
-      "amazon_url": "https://www.amazon.fr/manette-xbox-series-s-fil-officielle/s?k=manette+xbox+series+s+sans+fil+officielle",
-      "image_url": "https://m.media-amazon.com/images/I/51F5FJnXXL._AC_SL1000_.jpg",
-      "price_eur": "54,00",
-      "rating": "4.6",
-      "reviews": 15678,
-      "type": "Standard",
-      "category": "Gaming",
-      "features": [
-        "Incluse avec Xbox Series S",
-        "Bluetooth intégre",
-        "USB-C pour chargement"
-      ],
-      "pros": ["Prix le plus bas", "Originale et authentique"],
-      "cons": ["Meme fonction que Carbon Black"]
-    },
-    {
-      "rank": 6,
-      "name": "Microsoft Xbox Adaptive Controller",
-      "asin": "B07NDJXVNZ",
-      "amazon_url": "https://www.amazon.fr/Microsoft-Xbox-Adaptive-Controller/dp/B07NDJXVNZ",
-      "image_url": "https://m.media-amazon.com/images/I/71Qw4J88S8L._AC_SL1500_.jpg",
-      "price_eur": "99,99",
-      "rating": "4.4",
-      "reviews": 2341,
-      "type": "Accessible",
-      "category": "Gaming",
-      "features": [
-        "Concu pour l'accessibilite",
-        "Ports pour dispositifs d'assistance",
-        " Grande compatibilite"
-      ],
-      "pros": ["Innovation sociale", "Tres flexible"],
-      "cons": ["Pas pour tout le monde"]
-    },
-    {
-      "rank": 7,
-      "name": "Xbox Core Wireless Controller",
-      "asin": "B0BB5JKR2V",
-      "amazon_url": "https://www.amazon.fr/dp/B0BB5JKR2V",
-      "image_url": "https://m.media-amazon.com/images/I/61Y5fJnXXL._AC_SL1000_.jpg",
-      "price_eur": "59,99",
-      "rating": "4.7",
-      "reviews": 9876,
-      "type": "Core",
-      "category": "Gaming",
-      "features": [
-        "Nouveau design ergonomique",
-        "Bouton Share",
-        "Texture gripentee"
-      ],
-      "pros": ["Ergonomique amelioree", "Texture agreable"],
-      "cons": ["Prix eleve pour un modele basique"]
-    },
-    {
-      "rank": 8,
-      "name": "Thrustmaster eSwap XR Pro",
-      "asin": "B08CB5QK9Z",
-      "amazon_url": "https://www.amazon.fr/Thrustmaster-eSwap-XR-Pro-Controller/dp/B08CB5QK9Z",
-      "image_url": "https://m.media-amazon.com/images/I/71Qw4J88S8L._AC_SL1500_.jpg",
-      "price_eur": "69,99",
-      "rating": "4.3",
-      "reviews": 5621,
-      "type": "Tierce Partie Pro",
-      "category": "Gaming",
-      "features": [
-        "Modules interchangeables",
-        "Compatible Xbox et PC",
-        "Structure modulaire"
-      ],
-      "pros": ["Personnalisation extreme", "Tres resistant"],
-      "cons": ["Qualite inferieure aux officielles"]
-    },
-    {
-      "rank": 9,
-      "name": "Razer Wolverine V2 Chroma",
-      "asin": "B09GJFH3HP",
-      "amazon_url": "https://www.amazon.fr/Razer-Wolverine-V2-Chroma-Controller/dp/B09GJFH3HP",
-      "image_url": "https://m.media-amazon.com/images/I/71Qw4J88S8L._AC_SL1500_.jpg",
-      "price_eur": "79,99",
-      "rating": "4.4",
-      "reviews": 3421,
-      "type": "Tierce Partie Gaming",
-      "category": "Gaming",
-      "features": [
-        "Raquettes remappables",
-        "Eclairage RGB Chroma",
-        "Trigger stops ajustees"
-      ],
-      "pros": ["RGB personnalisable", "Idéal pour FPS"],
-      "cons": ["Pas compatible avec toutes les jeux"]
-    },
-    {
-      "rank": 10,
-      "name": "PowerA Enhanced Wired Controller",
-      "asin": "B08C5B3K2Z",
-      "amazon_url": "https://www.amazon.fr/PowerA-Enhanced-Wired-Controller-Xbox/dp/B08C5B3K2Z",
-      "image_url": "https://m.media-amazon.com/images/I/71Qw4J88S8L._AC_SL1500_.jpg",
-      "price_eur": "34,99",
-      "rating": "4.2",
-      "reviews": 12543,
-      "type": "Economique",
-      "category": "Gaming",
-      "features": [
-        "Prix tres competitif",
-        "Câble USB-C de 3m",
-        "Design colore"
-      ],
-      "pros": ["Le moins cher", "Tres bon rapport qualite-prix"],
-      "cons": ["Filaire uniquement", "Moins durable"]
+    "products": [
+        {
+            "rank": 1,
+            "name": "Manette Xbox sans Fil Robot White",
+            "asin": "B0F2NCQYTX",
+            "amazon_url": "https://www.amazon.fr/Xbox-Manette-sans-Fil-Windows/dp/B0F2NCQYTX",
+            "image_url": "images/product-01-manette-xbox-robot-white.jpg",
+            "price_eur": "59,99",
+            "rating": "4.8",
+            "reviews": 12453,
+            "type": "Officielle Standard",
+            "category": "Gaming",
+            "features": [
+                "Connexion Bluetooth et USB-C",
+                "Bouton Share intégré",
+                "Compatibilité Xbox Series X|S, Xbox One, PC, Mobile",
+                "Design moderne blanc"
+            ],
+            "pros": [
+                "Design élégant",
+                "Polyvalente",
+                "Bouton Share utile"
+            ],
+            "cons": [
+                "Prix fluctuate"
+            ]
+        },
+        {
+            "rank": 2,
+            "name": "Manette Xbox Carbon Black",
+            "asin": "B0F2NC69KK",
+            "amazon_url": "https://www.amazon.fr/Xbox-Manette-sans-Fil-Windows/dp/B0F2NC69KK",
+            "image_url": "images/product-02-manette-xbox-carbon-black.jpg",
+            "price_eur": "54,99",
+            "rating": "4.7",
+            "reviews": 28420,
+            "type": "Officielle Standard",
+            "category": "Gaming",
+            "features": [
+                "Connexion Bluetooth et USB-C",
+                "Bouton Share intégré",
+                "Design classique noir",
+                " Garantie Microsoft"
+            ],
+            "pros": [
+                "Meilleur prix",
+                "Fiabilité prouvée",
+                "Clone exacte"
+            ],
+            "cons": [
+                "Pas de couleur speciale"
+            ]
+        },
+        {
+            "rank": 3,
+            "name": "Xbox Elite Wireless Controller Series 2",
+            "asin": "B07SR4R8K1",
+            "amazon_url": "https://www.amazon.fr/Manette-Xbox-Elite-S%C3%A9rie-Sans/dp/B07SR4R8K1",
+            "image_url": "images/product-03-xbox-elite-series-2.jpg",
+            "price_eur": "179,00",
+            "rating": "4.6",
+            "reviews": 8923,
+            "type": "Elite Premium",
+            "category": "Gaming Pro",
+            "features": [
+                "4 boutons remappables",
+                "Poignées antidérapantes",
+                "3 profils personnalisés",
+                "Housse de transport incluse",
+                "Gachettes adjustable"
+            ],
+            "pros": [
+                "Qualite professionnelle",
+                "Totalement personalisable",
+                "Ideal pour competion"
+            ],
+            "cons": [
+                "Tres cher",
+                "Peso plus lourd"
+            ]
+        },
+        {
+            "rank": 4,
+            "name": "Xbox Elite Series 2 Core Blanc",
+            "asin": "B0B9GJLV2D",
+            "amazon_url": "https://www.amazon.fr/Xbox-Manette-sans-fil-Elite-Blanc/dp/B0B9GJLV2D",
+            "image_url": "images/product-04-xbox-elite-core-white.jpg",
+            "price_eur": "129,00",
+            "rating": "4.5",
+            "reviews": 4521,
+            "type": "Elite Core",
+            "category": "Gaming",
+            "features": [
+                "2 boutons remappables",
+                "Design blanc premium",
+                "Personnalisable",
+                "Plus legere que l'Elite 2"
+            ],
+            "pros": [
+                "Bon compromis",
+                "Esthétique recherché",
+                "Prix plus attractif"
+            ],
+            "cons": [
+                "Moins de boutons que l'Elite 2"
+            ]
+        },
+        {
+            "rank": 5,
+            "name": "Manette Xbox Series S Officielle",
+            "asin": "Non specifique",
+            "amazon_url": "https://www.amazon.fr/manette-xbox-series-s-fil-officielle/s?k=manette+xbox+series+s+sans+fil+officielle",
+            "image_url": "images/product-05-xbox-core-controller.jpg",
+            "price_eur": "54,00",
+            "rating": "4.6",
+            "reviews": 15678,
+            "type": "Standard",
+            "category": "Gaming",
+            "features": [
+                "Incluse avec Xbox Series S",
+                "Bluetooth intégre",
+                "USB-C pour chargement"
+            ],
+            "pros": [
+                "Prix le plus bas",
+                "Originale et authentique"
+            ],
+            "cons": [
+                "Meme fonction que Carbon Black"
+            ]
+        },
+        {
+            "rank": 6,
+            "name": "Microsoft Xbox Adaptive Controller",
+            "asin": "B07NDJXVNZ",
+            "amazon_url": "https://www.amazon.fr/Microsoft-Xbox-Adaptive-Controller/dp/B07NDJXVNZ",
+            "image_url": "images/product-06-xbox-adaptive-controller.jpg",
+            "price_eur": "99,99",
+            "rating": "4.4",
+            "reviews": 2341,
+            "type": "Accessible",
+            "category": "Gaming",
+            "features": [
+                "Concu pour l'accessibilite",
+                "Ports pour dispositifs d'assistance",
+                " Grande compatibilite"
+            ],
+            "pros": [
+                "Innovation sociale",
+                "Tres flexible"
+            ],
+            "cons": [
+                "Pas pour tout le monde"
+            ]
+        },
+        {
+            "rank": 7,
+            "name": "Xbox Core Wireless Controller",
+            "asin": "B0BB5JKR2V",
+            "amazon_url": "https://www.amazon.fr/dp/B0BB5JKR2V",
+            "image_url": "images/product-07-thrustmaster-eswap-xr-pro.jpg",
+            "price_eur": "59,99",
+            "rating": "4.7",
+            "reviews": 9876,
+            "type": "Core",
+            "category": "Gaming",
+            "features": [
+                "Nouveau design ergonomique",
+                "Bouton Share",
+                "Texture gripentee"
+            ],
+            "pros": [
+                "Ergonomique amelioree",
+                "Texture agreable"
+            ],
+            "cons": [
+                "Prix eleve pour un modele basique"
+            ]
+        },
+        {
+            "rank": 8,
+            "name": "Thrustmaster eSwap XR Pro",
+            "asin": "B08CB5QK9Z",
+            "amazon_url": "https://www.amazon.fr/Thrustmaster-eSwap-XR-Pro-Controller/dp/B08CB5QK9Z",
+            "image_url": "images/product-08-razer-wolverine-v2-chroma.jpg",
+            "price_eur": "69,99",
+            "rating": "4.3",
+            "reviews": 5621,
+            "type": "Tierce Partie Pro",
+            "category": "Gaming",
+            "features": [
+                "Modules interchangeables",
+                "Compatible Xbox et PC",
+                "Structure modulaire"
+            ],
+            "pros": [
+                "Personnalisation extreme",
+                "Tres resistant"
+            ],
+            "cons": [
+                "Qualite inferieure aux officielles"
+            ]
+        },
+        {
+            "rank": 9,
+            "name": "Razer Wolverine V2 Chroma",
+            "asin": "B09GJFH3HP",
+            "amazon_url": "https://www.amazon.fr/Razer-Wolverine-V2-Chroma-Controller/dp/B09GJFH3HP",
+            "image_url": "images/product-09-powera-enhanced-controller.jpg",
+            "price_eur": "79,99",
+            "rating": "4.4",
+            "reviews": 3421,
+            "type": "Tierce Partie Gaming",
+            "category": "Gaming",
+            "features": [
+                "Raquettes remappables",
+                "Eclairage RGB Chroma",
+                "Trigger stops ajustees"
+            ],
+            "pros": [
+                "RGB personnalisable",
+                "Idéal pour FPS"
+            ],
+            "cons": [
+                "Pas compatible avec toutes les jeux"
+            ]
+        },
+        {
+            "rank": 10,
+            "name": "PowerA Enhanced Wired Controller",
+            "asin": "B08C5B3K2Z",
+            "amazon_url": "https://www.amazon.fr/PowerA-Enhanced-Wired-Controller-Xbox/dp/B08C5B3K2Z",
+            "image_url": "images/product-10-xbox-series-s-controller.jpg",
+            "price_eur": "34,99",
+            "rating": "4.2",
+            "reviews": 12543,
+            "type": "Economique",
+            "category": "Gaming",
+            "features": [
+                "Prix tres competitif",
+                "Câble USB-C de 3m",
+                "Design colore"
+            ],
+            "pros": [
+                "Le moins cher",
+                "Tres bon rapport qualite-prix"
+            ],
+            "cons": [
+                "Filaire uniquement",
+                "Moins durable"
+            ]
+        }
+    ],
+    "site_info": {
+        "title": "Les 10 Meilleures Manettes Xbox en 2026 | Test & Comparatif",
+        "description": "Guide d'achat des meilleures manettes Xbox en 2026. Comparatif détaillé, avis, test et prix pour choisir la manette parfaite pour votre setup gaming.",
+        "keywords": "manette xbox, meilleur manette xbox, Xbox controller, accessoires gaming, manette xbox series x",
+        "locale": "fr-FR",
+        "currency": "EUR",
+        "amazon_tag": "matnix-21"
     }
-  ],
-  "site_info": {
-    "title": "Les 10 Meilleures Manettes Xbox en 2026 | Test & Comparatif",
-    "description": "Guide d'achat des meilleures manettes Xbox en 2026. Comparatif détaillé, avis, test et prix pour choisir la manette parfaite pour votre setup gaming.",
-    "keywords": "manette xbox, meilleur manette xbox, Xbox controller, accessoires gaming, manette xbox series x",
-    "locale": "fr-FR",
-    "currency": "EUR",
-    "amazon_tag": "matnix-21"
-  }
 }
